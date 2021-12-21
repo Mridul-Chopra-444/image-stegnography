@@ -1,0 +1,25 @@
+.e{
+    -fx-text-fill: #FFF;
+    -fx-background-color:#66b3ff;
+     
+    
+}
+
+.e:hover{
+    -fx-background-radius:20px;
+    -fx-border-radius:20px;
+}
+
+.tabs:hover{
+    -fx-border-color:  #004080  #004080  #004080  #004080 ;
+    -fx-border-width:3 3 3 3;
+}
+.gear{
+    -fx-background-radius: 100%;
+    -fx-border-radius: 100%;
+     
+}
+
+.gear:hover{
+-fx-border-color: black;
+}

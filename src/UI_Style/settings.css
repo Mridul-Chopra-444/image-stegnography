@@ -1,0 +1,40 @@
+.menu{
+    -fx-background-color:none;
+    -fx-text-fill: #FFF;
+}
+
+.menu:hover{
+    -fx-background-color: #ff6666;
+}
+
+#selected{
+    -fx-border-color:  #000d33  #000d33   #b3b3e6 #000d33;
+    -fx-border-width:0 0 2 0;
+    
+}
+
+.text{
+    -fx-background-color: none;
+    -fx-border-color: #f2f2f2 #f2f2f2 #3bb300 #f2f2f2;
+    -fx-border-width:0 0 2 0;
+}
+
+.submit{
+    -fx-background-radius: 20px;
+    -fx-border-radius:20px;
+    
+}
+
+.submit:hover{
+    -fx-border-color: #adadeb;
+    -fx-border-width: 2 2 2 2;
+}
+
+
+.back{
+    -fx-background-radius:100%;
+    -fx-border-radius: 100%;
+}
+.back:hover{
+    -fx-border-color: #FFF;
+}

@@ -1,0 +1,25 @@
+*{
+  signup-color: #000033;  
+}
+
+.text-area{
+   -fx-background-color: none;
+   -fx-border-color:  signup-color  signup-color white  signup-color;
+   -fx-text-fill: white;
+}
+.sign-button{
+    -fx-background-color: #66b3ff;
+    -fx-text-fill: white;
+}
+.sign-button:hover{
+   -fx-background-radius:20px;
+   -fx-border-radius:20px; 
+   -fx-border-width: 4 4 4 4; 
+    -fx-border-color: #9999ff;
+}
+.login{
+    -fx-background-color:none;
+}
+.login:hover{
+    -fx-text-fill: #ff0080;
+}
